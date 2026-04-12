@@ -1,7 +1,6 @@
 <div align="center">
   <h1>BE A <span style="font-weight:bold; color:red;">GANDU</span> AND ROCK THIS FUCKING WORLD</h1>
 </div>
-<h1>This is a regular <span style="font-weight: bold; color: red;">bold and red</span> word in an h1 sentence.</h1>   
 
 <!--<div align="center">
   <img src="https://skillicons.dev/icons?i=ts" height="60" alt="typescript logo"  />
