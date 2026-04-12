@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <h3>SOME OF THE HONOURABLE AWARDS THAT I WAS AWARDED</h3>
+  <h3>SOME OF THE HONOURABLE AWARDS THAT I WAS AWARDED FOR MY CONTRIBUTIONS TO THIS WORLD</h3>
 </div>
 <table border="0">
   <tr>
