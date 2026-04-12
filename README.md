@@ -1,6 +1,10 @@
 <div align="center">
   <h1>BE A <span style="font-weight:bold; color:red;">GANDU</span> AND ROCK THIS FUCKING WORLD</h1>
 </div>
+
+<div align="center">
+  <h3>SOME OF THE HONOURABLE AWARDS THAT I WAS AWARDED</h3>
+</div>
 <table border="0">
   <tr>
     <td>
