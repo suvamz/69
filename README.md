@@ -9,7 +9,7 @@
 <table border="0">
   <tr>
     <td>
-      <img width="1536" height="2048" alt="Image" src="https://github.com/user-attachments/assets/d8765a5d-85e3-4bd8-aebd-7cb42b2891bf" />
+      <img width="1536" height="2048" alt="Image" src="https://github.com/user-attachments/assets/e80342f8-5718-46da-9cd6-649085222896" />
     </td>
     <td style="padding: 10px;">
       <img width="1536" height="2048" alt="Image" src="https://github.com/user-attachments/assets/fdf13610-7106-4ec5-bc99-d61945ca68ea" />
